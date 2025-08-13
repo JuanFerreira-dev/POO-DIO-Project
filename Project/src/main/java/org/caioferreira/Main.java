@@ -6,6 +6,5 @@ public class Main {
         Showtxt s =  new Showtxt();
         s.showMenu();
 
-
     }
 }
